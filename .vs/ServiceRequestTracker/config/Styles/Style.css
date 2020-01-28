@@ -1,0 +1,86 @@
+﻿.center {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.right {
+    display: flex;
+    text-align: right;
+    justify-content: flex-end;
+    margin-left: auto;
+}
+
+.paddingH10 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.pos-rel {
+    position: relative;
+}
+
+.pos-abs {
+    position: absolute;
+}
+
+.table {
+    border: none;
+}
+
+tbody {
+    border: 1px solid black;
+}
+
+.bottom {
+    vertical-align: bottom;
+    bottom: 0;
+}
+
+.widthOverride {
+    max-width: 10000px;
+}
+
+input,
+select,
+textarea,
+button {
+    border-radius: 3px;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.gv th,
+.gv td {
+    padding: 10px;
+}
+
+.mgn-50v {
+    margin: 50px 0;
+}
+.mgn-25v {
+    margin: 25px 0;
+}
+
+.nav.navbar-nav a {
+    color: #000000;
+}
+
+    .nav.navbar-nav a:hover {
+        color: #000000;
+    }
+
+    .nav.navbar-nav a:visited {
+        color: #000000;
+    }
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}

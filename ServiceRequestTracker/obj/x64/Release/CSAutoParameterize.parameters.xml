@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="default-Web.config Connection String" description="default Connection String used in web.config by the application to access the database." defaultValue="Data Source=C:\Users\roter\OneDrive\SCHOOL\Sem9\COP2940 - Computer Programming Internship\ROtero_ServiceRequestTracker\ServiceRequestTracker\database.db" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\roter\\OneDrive\\SCHOOL\\Sem9\\COP2940\ -\ Computer\ Programming\ Internship\\ROtero_ServiceRequestTracker\\ServiceRequestTracker\\obj\\x64\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='default']/@connectionString" />
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\roter\\OneDrive\\SCHOOL\\Sem9\\COP2940\ -\ Computer\ Programming\ Internship\\ROtero_ServiceRequestTracker\\ServiceRequestTracker\\obj\\x64\\Release\\Package\\PackageTmp\\bin\\Web\.config$" match="/configuration/connectionStrings/add[@name='default']/@connectionString" />
+  </parameter>
+</parameters>
